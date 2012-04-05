@@ -1,0 +1,11 @@
+<html>
+<link rel="stylesheet" type="text/css" href="compre.css">
+<h1>Question Paper</h1>
+<script type="text/javascript" src="countdown.js"></script>
+<form name="cd" align="right">
+<input id="txt" readonly="true" type="text" value="10:00" border="0" name="disp">
+</form>
+<% out.println(request.getParameter("username"));%>
+
+
+</html>
